@@ -1,0 +1,20 @@
+ @media(max-width:668px){ 
+    body{
+         max-width: 668px !important; 
+    }
+    #headerCss{
+         margin-left: 10px; 
+    }
+    #navContainer{
+         max-width: 668px !important; 
+    }
+    #navData{
+         margin-left:265 !important; 
+    }
+    #binary{
+         font-size: 35px !important; 
+    }
+    #home{
+         margin-left:16px;
+    }
+ } 

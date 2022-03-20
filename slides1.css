@@ -1,0 +1,21 @@
+/* For "Slide 1 Section & Heading" */
+/* #firstSection{
+    padding:10px; 
+    height:300px;
+} */
+#headingOne{
+    color:#ffffff;
+    border: 1px solid #38bdf8;
+    margin-right:15.75rem;
+    margin-left:18.688rem;
+}
+
+
+/* For "What is Binary Search?" */
+#contentOne{
+    margin-left:76px;
+}
+#contentOneHeading{
+    color: #ffffff ;
+}
+
